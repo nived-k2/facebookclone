@@ -1,0 +1,151 @@
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #3b5998;
+}
+body{
+    margin: 0%;
+}
+.logo{
+width: 50%;
+padding-top: 40px;
+float: left;
+}
+.login{
+width: 50%;
+float: left;
+}
+.logo_text{
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+.logintext
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.login_form{
+    padding-top: 17px;
+}
+.forgotten_text{
+    color: rgb(216, 199, 199);
+    text-decoration: none;
+    font-size: 11px;
+}
+.submitbutton{
+    background-color: #4267b2;
+    border-color: #29487b;
+    color: white;
+    height: 20px;
+    cursor: pointer;
+    
+}
+.submitbutton:hover{
+    background: #6281bf;
+}
+
+.left
+{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 54px;
+}
+.right{
+    width: 38%;
+    float: left;
+    
+    padding-top: 48px;
+}
+.body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 550px;
+}
+.image{
+    width: 581px;
+    
+}
+.bodytext{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #29487b;
+    padding-left: 2px;
+    font-size: 20px;
+    
+}
+.email{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+    border: solid none;
+    border-color: grey;
+}
+.surname{
+    margin-left: 7px;
+    height: 20px;
+    width: 120px;
+    border-radius: 5px;
+}
+.mobile{
+    margin-top: 10px;
+    height: 20px;
+    width: 338px;
+    border-radius: 5px;
+}
+.Password{
+    margin-top: 10px;
+    height: 20px;
+    width: 338px;
+    border-radius: 5px;
+}
+.birth{
+    
+    margin-top: 10px;
+    color: grey;
+    
+
+}
+.Gender{
+    margin-top: 15px;
+    color: grey;
+    padding-top: 1px;
+    font-weight: unset;
+    font-size: 17px;
+
+
+}
+
+.date{
+    margin-top: 3px;
+}
+.year{
+    width: 100px;
+}
+.policy{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signup{
+    margin-left: 150px;
+    width: 150px;
+    height: 30px;
+    background-color:#00a400;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+}
+.signup:hover{
+    background-color: #2eeb2e;
+    cursor: pointer;
+}
